@@ -9,7 +9,7 @@ j) text2
 ...
 == line break ==  
 
-i and j are line numbers in the script. Line indexing starts with one, the groups should be displayed in accordance with the order of roles. Line breaks between groups are required, line breaks at the end of the text are not taken into account.
+i and j are the line numbers in the script. Line indexing starts with one, the groups should be displayed in accordance with the order of roles. Line breaks between groups are required, line breaks at the end of the text are not taken into account.
 
 Sample Input: 
 
